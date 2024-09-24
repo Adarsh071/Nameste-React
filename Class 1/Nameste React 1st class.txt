@@ -1,0 +1,4 @@
+what is CDN?
+=> content delivery network
+=> basically CDN is a place where react labriry is hosted.
+=> A Content Delivery Network (CDN) is a system of distributed servers that work together to deliver web content, such as images, videos, and other files, to users based on their geographic location. The primary goal of a CDN is to improve website performance and reduce latency by caching content closer to the user.
